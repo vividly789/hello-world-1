@@ -1,4 +1,5 @@
 # Pull base image 
+# testing the Hellow-world app
 From tomcat:8-jre8 
 
 # Maintainer 
